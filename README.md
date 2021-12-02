@@ -1,5 +1,5 @@
 # Genomic assessment of quarantine measures to prevent SARS-CoV-2 importation and transmission
-Dinesh Aggarwal, Andrew J. Page5, Ulf Schaefer, George M. Savva, Richard Myers, Erik Volz, Nicholas Ellaby, Steven Platt, Natalie Groves, Eileen Gallaghar, Niamh M. Tumelty, Thanh Le Viet, Gareth J. Hughes, Cong Chen, Charlie Turner, Sophie Logan, Abbie Harrison, The COVID-19 Genomics UK (COG-UK) Consortium, Sharon J. Peacock, Meera Chand, Ewan M. Harrison
+Dinesh Aggarwal, Andrew J. Page, Ulf Schaefer, George M. Savva, Richard Myers, Erik Volz, Nicholas Ellaby, Steven Platt, Natalie Groves, Eileen Gallaghar, Niamh M. Tumelty, Thanh Le Viet, Gareth J. Hughes, Cong Chen, Charlie Turner, Sophie Logan, Abbie Harrison, The COVID-19 Genomics UK (COG-UK) Consortium, Sharon J. Peacock, Meera Chand, Ewan M. Harrison
 
 # Abstract
 
